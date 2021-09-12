@@ -14,4 +14,4 @@ To create an interactive dashboard with plots based on the data provided on Bell
 
 ## Results
 https://trosie3.github.io/Belly_Button_Biodiversity/ 
-![image](https://github.com/trosie3/Belly_Button_Biodiversity/blob/main/static/images/webpageimage.png)
+![image](https://github.com/trosie3/Belly_Button_Biodiversity/blob/main/static/images/webpageimage2.png)
