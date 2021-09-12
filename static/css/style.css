@@ -1,0 +1,20 @@
+html {
+    background-color: rgb(222, 225, 226);
+}
+
+/*image retrieved from:https://hudsonrobotics.com/what-is-a-bacterial-colony/ */
+.jumbotron {
+    background-image: url("../images/what-is-a-bacterial-colony.jpg");
+    background-size: 100% 100%;
+    color: whitesmoke;
+    -webkit-text-stroke: 1.5px black;
+}
+
+.well {
+    background-color: rgb(241, 152, 116);
+}
+
+.panel {
+    background-color:rgb(143, 151, 158);
+    color: white;
+}
